@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.25920.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverseString", "ReverseString\02.ReverseString.csproj", "{91BEB1EB-9572-4EEB-8710-528EBAC85F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CorrectBrackets", "CorrectBrackets\03.CorrectBrackets.csproj", "{F6A3AF6C-2DE9-4F32-BEF8-4A00318B7B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Sub-stringInText", "Sub-stringInText\04.Sub-stringInText.csproj", "{2A2D8DAD-039F-4AFF-958A-908717E14109}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BEB1EB-9572-4EEB-8710-528EBAC85F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BEB1EB-9572-4EEB-8710-528EBAC85F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BEB1EB-9572-4EEB-8710-528EBAC85F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BEB1EB-9572-4EEB-8710-528EBAC85F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A3AF6C-2DE9-4F32-BEF8-4A00318B7B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A3AF6C-2DE9-4F32-BEF8-4A00318B7B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A3AF6C-2DE9-4F32-BEF8-4A00318B7B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A3AF6C-2DE9-4F32-BEF8-4A00318B7B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2D8DAD-039F-4AFF-958A-908717E14109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2D8DAD-039F-4AFF-958A-908717E14109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2D8DAD-039F-4AFF-958A-908717E14109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2D8DAD-039F-4AFF-958A-908717E14109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
